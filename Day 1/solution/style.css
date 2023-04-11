@@ -31,6 +31,8 @@ body {
     padding: 2em;
     /* Remove height property from the container */
     /* height: 300px; */
+    /* Added padding */
+    padding: 2rem;
 }
 
 /* Added width property to intro content */
