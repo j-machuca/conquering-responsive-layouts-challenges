@@ -2,7 +2,7 @@
 
 Solutions to Kevin Powell's Conquering Responsive Layouts Course
 
-## DAY 1
+## Challenge #1
 
 ---
 
@@ -14,4 +14,4 @@ Solutions to Kevin Powell's Conquering Responsive Layouts Course
 ### Solutions
 
 1. Added width property to `.intro-content` class
-2. Removed the height property from the container.
+2. Removed the `height` property and added `padding:2rem` from the container.
